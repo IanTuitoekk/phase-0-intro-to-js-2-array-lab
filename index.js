@@ -31,3 +31,5 @@ function removeLastCat(){
     const opCats=cats.slice(0,-1);
     return opCats;
 }
+
+console.log(appendCat("Puta"))
